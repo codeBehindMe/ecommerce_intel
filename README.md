@@ -1,12 +1,8 @@
-# Data Scientist Task
-
-Task description and data for candidates applying to be a Data Scientist in the **Data Science and Analytics Department** at [The Iconic](https://theiconic.com.au).
-
 ## Background
 
-Many of our customers at THE ICONIC - similar to most online shoppers - only provide the bare minimum of information needed when signing up as a new user or making a transaction on the site (i.e credit card details, delivery address etc). They do not provide their age, gender or any other personal details when they register as a new customer or they will simply purchase their items as a ‘Guest’ user.
+Many of our customers at O-ROTAIL - similar to most online shoppers - only provide the bare minimum of information needed when signing up as a new user or making a transaction on the site (i.e credit card details, delivery address etc). They do not provide their age, gender or any other personal details when they register as a new customer or they will simply purchase their items as a ‘Guest’ user.
 
-Respecting customer privacy is of the utmost important at THE ICONIC and we understand why some shoppers are hesitant to provide personal information. However, to be able to better tailor our site, branding strategy, marketing, product and most importantly merchandising, we need to have a better handle on the profile of our shopper and understand the things that are more relevant to them.
+Respecting customer privacy is of the utmost important at O-RETAIL and we understand why some shoppers are hesitant to provide personal information. However, to be able to better tailor our site, branding strategy, marketing, product and most importantly merchandising, we need to have a better handle on the profile of our shopper and understand the things that are more relevant to them.
 
 **What we have identified here is an opportunity to ‘infer’ a customer’s gender based on the amazingly rich user behavioural data, which will allow us to better tailor our site and offerings to their needs.**
 
